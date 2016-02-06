@@ -31,12 +31,12 @@ body a:hover{
 }
 /*--banner-Part-Starts-Here--*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat;
+	background:url(../images/danny3.jpg) no-repeat;
 	background-size:100% 100%;
 	min-height:940px;
 }
 .banner-1{
-	background:url(../images/banner.jpg) no-repeat;
+	background:url(../images/danny3.jpg) no-repeat;
 	background-size:100% 100%;
 	min-height:500px;
 }
@@ -110,7 +110,7 @@ body a:hover{
 /*--about-Part-ends-Here--*/
 /*--services-Part-Starts-Here--*/
 .services{
-	background:url(../images/service-banner.jpg) no-repeat;
+	background:url(../images/service-danny3.jpg) no-repeat;
 	background-size:100% 100%;
 	min-height:500px;
 }
@@ -220,7 +220,7 @@ body a:hover{
 }
 /*------------------ Slider Part starts Here----------*/
 .slider{
-	background:url(../images/slide-banner.jpg)no-repeat;
+	background:url(../images/slide-danny3.jpg)no-repeat;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;

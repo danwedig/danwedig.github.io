@@ -709,6 +709,9 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
 .touch-right-top span.num {
   background-position: -70px 0px;
 }
+.touch-right-top span.git { /* added this one */
+  background: url(../image/githublogo.png);
+}
 .touch-right-top {
   text-align: center;
   margin-top: 8px;
